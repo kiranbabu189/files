@@ -1,0 +1,305 @@
+{
+    "home": {
+        "icon": {
+            "heading": "iCON",
+            "description": "An Intelligent device that converts existing Inverters/UPS to Solar Inverters/UPS"
+        },
+        "icube": {
+            "heading": "iCUBE",
+            "description": "Patent pending high efficient Solar UPS"
+        },
+        "highlights": {
+            "installation": "Over 2000 KW Installation Worldwide",
+            "repair": "Free Installation with 3 Year Warranty",
+            "cost": "EMI starting with 999 INR"
+        },
+        "section2": {
+            "heading": "Go Solar & Double Your Savings"
+        },
+        "section3": {
+            "heading": "You Take Control",
+            "description": "Energy24by7 Mobile App helps you visualize Solar Savings, Utility Savings, Realtime Battery Status, CO2 Offset, & Trees Saved. It also gives Alerts for Solar Panel cleaning, Battery maintenance etc"
+        },
+        "section4": {
+            "heading": "More from Energy24by7",
+            "point1": "Predictive Maintenance & Remote Customer Support",
+            "point2": "Easy access to software/ firmware updates through Over-The-Air ( OTA ) feature",
+            "point3": "470 Tons + CO2 Offset.",
+            "point4": "3528+ Trees Saved",
+            "point5": "Suitable for Residential, Commercial Systems, Small shops & Large scale utility systems."
+        },
+        "section5": {
+            "heading": "Customer Use Cases",
+            "user1": {
+                "heading": "ECESIS : iCUBE 2000, 1080Wp Solar Power Plant",
+                "point1": "Avg Units saved/Year :  1608",
+                "point2": "Avg CO2 Savings/ Year : 1319",
+                "point3": "Avg Trees Savings/Year :  60"
+            },
+            "user2": {
+                "heading": "Shibu Thomas : iCON 24, 900 Wp Solar Power Plant",
+                "point1": "Avg Units saved/Year  : 960",
+                "point2": "Avg CO2 Savings/ Year : 787",
+                "point3": "Avg Trees Savings/Year : 36"
+            },
+            "user3": {
+                "heading": "Jabir  : iCUBE 2000, 900 Wp Solar Power Plant",
+                "point1": "Avg Units saved/Year : 1128",
+                "point2": "Avg CO2 Savings/ Year : 925",
+                "point3": "Avg Trees Savings/Year : 42"
+            }
+        },
+        "section6": {
+            "point1": {
+                "heading": "Know Us",
+                "description": "Follow our social media pages for regular updates."
+            },
+            "point2": {
+                "heading": "Get a Quote",
+                "description": "Our Solar Experts will help you with the best solution that fits your load requirements and usage pattern."
+            },
+            "point3": {
+                "heading": "FAQ's",
+                "description": "Please feel free to share your doubts or queries related to solar."
+            }
+        }
+    },
+    "icon": {
+        "heading": "iCON",
+        "description": "iCON is an Intelligent device that converts existing Inverters/UPS to Solar Inverters/UPS",
+        "cta": "Download Brochure",
+        "section1": {
+            "heading": "Solar home in a jiffy!",
+            "description1": "By Sunset, the batteries are fully charged from solar PV. The stored energy can be used at night for customers with low yield which effectively is Solar energy used at night. iCON will give you ",
+            "description2": "higher savings ",
+            "description3": "compared to competitors by its patent-pending battery charging inhibition technology.",
+            "features1": "Free predictive and remote maintenance",
+            "feature2": "Free 3 years remote monitoring mobile app/ web interface"
+        },
+        "section2": {
+            "title": "Go Solar & Double Your Savings",
+            "description1": {
+                "title": "Solar at Night",
+                "description": "iCON ensures the battery is fully charged by sunset. This stored energy can be used for customers with low yield which effectively is Solar usage at Night"
+            },
+            "description2": {
+                "title": "Battery Charging Inhibition",
+                "description": "iCON controls charging of battery from Mains via patent pending technology. Returns upto additional 1 unit savings per day"
+            },
+            "description3": {
+                "title": "Adaptive",
+                "description": "With its inbuilt AI Algorithm, iCON optimises the energy delivery and ensure 2X savings compared to the Competitors"
+            },
+            "description4": {
+                "title": "Future Ready",
+                "description": "With an Over The Air update, iCON enables any existing inverters/UPS to seamlessly work with Lithium/ advanced battery chemistries."
+            },
+            "description5": {
+                "title": "Faster Payback",
+                "description": "iCON Systems can give ROI within 4 -6 years while conventional Solar charge controllers might take 8 - 12 years"
+            }
+        },
+        "section3": {
+            "heading": "More from Energy24by7",
+            "point1": "Predictive Maintenance & Remote Customer Support",
+            "point2": "Easy access to software/ firmware updates through Over-The-Air ( OTA ) feature",
+            "point3": "470 Tons + CO2 Offset.",
+            "point4": "3528+ Trees Saved",
+            "point5": "Suitable for Residential, Commercial Systems, Small shops & Large scale utility systems."
+        }
+    },
+    "icube": {
+        "heading": "iCUBE",
+        "description": "Patent pending high efficient Solar UPS ",
+        "cta": "Download Brochure",
+        "section1": {
+            "description": "iCUBE is a candidate for being India’s first 5 star rated Solar UPS. Our Patent pending technology on battery charging inhibition and predictive AI algorithm ensures maximum savings for the customer. Built with high quality copper and aluminium transformers, iCUBE never compromises on efficiency in energy delivery and ensures minimal losses. A dedicated App provides real time data on solar savings, battery status and much more.",
+            "point1": "Free Installation",
+            "point2": "3 Year Warranty"
+        },
+        "section2": {
+            "title": "Go Solar & Double Your Savings",
+            "description1": {
+                "title": "Solar at Night",
+                "description": "iCUBE ensures the battery is fully charged by sunset. This stored energy can be used for customers with low yield which effectively is Solar at Night"
+            },
+            "description2": {
+                "title": "Additional Savings of 1 unit/day",
+                "description": "iCUBE controls charging of battery from Mains via patent pending technology. Returns upto additional 1 unit savings per day"
+            },
+            "description3":{
+                "title": "Adaptive",
+                "description": "With its inbuilt AI Algorithm, iCUBE optimizes the energy delivery and ensure higher savings compared to Competitors."
+            },
+            "description4": {
+                "title": "Faster Payback",
+                "description": "iCUBE Systems can give ROI within 4 -6 years while conventional Solar Inverters might take 8 -12 years"
+            },
+            "description5": {
+                "title": "A Star in the making",
+                "description1": "Potential",
+                "description2": "candidate for a BEE 5 star rated Solar UPS"
+            }
+        },
+        "resultSection": {
+            "title": "Our Test Results",
+            "table": {
+                "row1": ["Parameters", "iCube", "Competitor 1", "Competitor 2", "Competitor 3"],
+                "row2": ["Solar Energy Available to Use (Wh)", "5000", "5000", "5000", "5000"],
+                "row3": ["Solar Energy Utilized (Wh)", "4059", "2966", "2871", "2484"],
+                "row4": ["Solar Utilization", "81%", "59%", "57%", "49%"],
+                "row5": ["Reduction in Electricity Bill Per Annum (INR)", "13,230 INR", "9342 INR", "9009 INR", "4978 INR"],
+                "row6": ["Payback Period (Years)", "3 Years", "7 Years", "8 Years", "12 Years"]
+            }
+        }
+    },
+    "technology": {
+        "heading": "Our Technology",
+        "description": "Power Electronics, Embedded Firmware, AI, IoT and Cloud Technologies",
+        "section1": {
+            "title": "We Innovate",
+            "description1": "Our patent enables",
+            "description2": "iCON",
+            "description3": "to work seamlessly with all existing inverters and UPS systems already installed currently in customer sites. It also allows our products to control/inhibit battery charging from utility grid to provide additional savings.",
+            "description4": "AI helps in predicting load usage and energy availability patterns to make sure that the solar energy available is utilized to maximum and the batteries are fully charged back to from solar panels by sunset"
+        },
+        "section2": {
+            "heading": "Coulomb Counting",
+            "description": "Customers using lead acid batteries for legacy systems can switch to Lithium based or new chemistry batteries down the line using iCON/ iCUBE as both uses a coulomb counting method. A segment first option. A configuration update that can be done OTA or by the person changing the batteries can make the change."
+        },
+        "section3": {
+            "heading": "Transparency",
+            "description": "We are transparent to the Customer showing how much energy is generated from Solar PV and how much is saved from inhibiting utility charging of batteries or by the inhibition function. No other competitor in this segment shows this data."
+        },
+        "section4": {
+            "heading": "Robust Engineering",
+            "description": "We follow a stage gate product development process. The outcomes at each stage will be validated and signed off by the internal customer. Advancement to the next stage will depend on the customer feedback, review and acceptance. An evidence-based approach is followed and all major standards as listed by the compliance agency are planned in the start of any project. We follow similar procedures used by Tier 1 corporations for the product development process. An Engineering Change Record/Engineering Change Notice (ECR/ECN) process is used for any changes and all failures will go through a Failure Analysis (FA) process with proper root cause analysis and the required corrective action is generated and documented."
+        }
+    },
+    "aboutUs":{
+        "section1": {
+            "title": "Our Mission",
+            "description1": "Energy24by7 is a platform developed and owned by NyQuest Innovation Labs Private Limited to market the products & solutions the company develops in the upcoming energy space. The company was incorporated in 2017 with a vision to design and develop products in the energy and storage domain. Our team is a mix of young and experienced passionate professionals with 80+ years of collective experience in AI and power electronics.",
+            "description2": "We strive",
+            "description3": "to develop products that add value to the sustainable energy chain without compromising on efficiencies in energy delivery."
+        },
+        "section3": {
+            "title": "Our Core Values",
+            "point1": "Planet First: If we have to choose between profits and planet, our planet will come first as we have only one.",
+            "point2": "Think loud about our ideas. Listen, discuss, and then decide",
+            "point3": "Great things are always done by a team of people",
+            "point4": "Pragmatic Perfectionism"
+        },
+        "section4": {
+            "title": "Our Mantra",
+            "description": "In lord we trust rest of us bring data to the table."
+        },
+        "section5": {
+            "title": "Meet Our Team",
+            "person1": {
+                "title": "Vinod Gopal",
+                "description1": "Chief Mentor",
+                "description2": "PhD, MBA. Mentors team Energy 24by7. Designed products for Apple, GE & Medtronic."
+            },
+            "person2": {
+                "title": "Lakshmi Nambiar",
+                "description1": "COO, Director",
+                "description2": "M.S, MBA. Oversees AI algorithms. Worked for UTC Aerospace."
+            },
+            "person3": {
+                "title": "Harsh Mohan",
+                "description1": "CEO",
+                "description2": "M.Tech in Renewable Energy. 6 years experience in solar PV & operation."
+            },
+            "person4": {
+                "title": "Akhil S",
+                "description1": "CTO, Director",
+                "description2": "M.Tech in Renewable Energy. 6 years experience. Looks after engineering"
+            },
+            "person5": {
+                "title": "Kiran S ",
+                "description1": "CXO",
+                "description2": "M.Tech in Renewable Energy. 10 Years Experience. Looks after Customer Relationships."
+            }
+        },
+        "section6": {
+            "title": "Milestones",
+            "years": [
+                {
+                    "title": "2017",
+                    "info": [
+                        {
+                            "title": "2017 March",
+                            "description": "Energy24by7 was founded"
+                        },
+                        {
+                            "title": "2017 July",
+                            "description": "iCON Beta was released"
+                        }
+                    ]
+                },
+                {
+                    "title": "2018",
+                    "info": [
+                        {
+                            "title": "2018 January",
+                            "description": "iCUBE beta was released"
+                        },
+                        {
+                            "title": "2018 June",
+                            "description": "67 Beta Systems in Field"
+                        },
+                        {
+                            "title": "2018 November",
+                            "description": "Build 100 units to check DFM"
+                        }
+                    ]
+                },
+                {
+                    "title": "2019",
+                    "info": [
+                        {
+                            "title": "2019 January",
+                            "description": "Resolved issues at 4 customer sites remotely using the data"
+                        }
+                    ]
+                },
+                {
+                    "title": "2020",
+                    "info": [
+                        {
+                            "title": "2020 March",
+                            "description": "Reached 1 Cr Revenue with PAT of 8 Lakhs"
+                        },
+                        {
+                            "title": "2020 November",
+                            "description": "Crossed 500 customers across worldwide"
+                        }
+                    ]
+                },
+                {
+                    "title": "2021",
+                    "info": [
+                        {
+                            "title": "2021 April",
+                            "description": "Completed 5 MW Installations worldwide"
+                        },
+                        {
+                            "title": "2021 October",
+                            "description": "Climate launchpad Finalists"
+                        }
+                    ]
+                },
+                {
+                    "title": "2022",
+                    "info": [
+                        {
+                            "title": "2022 December",
+                            "description": "Huddle Global Winners"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
