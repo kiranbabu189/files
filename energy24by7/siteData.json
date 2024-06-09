@@ -168,42 +168,36 @@
                     "Payback Period (Years)"
                 ],
                 "row1": [
-                    "Parameters",
                     "iCube",
                     "Competitor 1",
                     "Competitor 2",
                     "Competitor 3"
                 ],
                 "row2": [
-                    "Solar Energy Available to Use (Wh)",
                     "5000",
                     "5000",
                     "5000",
                     "5000"
                 ],
                 "row3": [
-                    "Solar Energy Utilized (Wh)",
                     "4059",
                     "2966",
                     "2871",
                     "2484"
                 ],
                 "row4": [
-                    "Solar Utilization",
                     "81%",
                     "59%",
                     "57%",
                     "49%"
                 ],
                 "row5": [
-                    "Reduction in Electricity Bill Per Annum (INR)",
                     "13,230 INR",
                     "9342 INR",
                     "9009 INR",
                     "4978 INR"
                 ],
                 "row6": [
-                    "Payback Period (Years)",
                     "3 Years",
                     "7 Years",
                     "8 Years",
@@ -469,5 +463,9 @@
                 "content": "info@energy24by7.com"
             }
         }
+    },
+    "blogs": {
+        "title": "Blogs",
+        "subTitle": "Learn Solar"
     }
 }
