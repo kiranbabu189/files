@@ -1,4 +1,18 @@
 {
+    "siteMeta": {
+        "whatsappNumber": "+91 8943665530",
+        "email": "sales@energy24by7.com",
+        "contact": "0484-4301825",
+        "iconBrochure": "https://drive.google.com/uc?export=download&id=1tk_odNh7_IJHci4bLSTaa7OzwwIHhUwB",
+        "icubeBrochure": "https://drive.google.com/uc?export=download&id=1Xc-oMh8fR2YLN02_cDF2Q8tIOdEJyZPD",
+        "address": {
+            "title": "Head Office",
+            "addressLine1": "Premier Towers, 3/B-F,",
+            "addressLine2": "Aluva - Perumbavoor Rd",
+            "addressLine3": "Above Reliance Smart Point,",
+            "addressLine4": "Nedumthodu, Kerala 683547"
+        }
+    },
     "home": {
         "icon": {
             "heading": "iCON",
@@ -227,7 +241,7 @@
         "section1": {
             "title": "Our Mission",
             "description1": "Energy24by7 is a platform developed and owned by NyQuest Innovation Labs Private Limited to market the products & solutions the company develops in the upcoming energy space. The company was incorporated in 2017 with a vision to design and develop products in the energy and storage domain. Our team is a mix of young and experienced passionate professionals with 80+ years of collective experience in AI and power electronics.",
-            "description2": "We strive",
+            "description2": "We strive ",
             "description3": "to develop products that add value to the sustainable energy chain without compromising on efficiencies in energy delivery."
         },
         "section2": {
