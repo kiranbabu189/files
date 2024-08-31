@@ -467,5 +467,10 @@
     "blogs": {
         "title": "Blogs",
         "subTitle": "Learn Solar"
+    },
+    "offers": {
+        "marquee": "🎉 GRAND ONAM SALE 🎉 Exclusive Offers Worth INR 3000!! ⏳ Valid Until September 30 Don’t Wait—Book Now! 🚀",
+        "banner": "",
+        "showOffers": true
     }
 }
